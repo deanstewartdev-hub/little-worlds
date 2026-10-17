@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Little Worlds — Storybook Garden (Alpha 1.2 Preview 27)",
+  "short_name": "Little Worlds",
+  "description": "Cosy little town-building game, with virtual currency only.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111e30",
+  "theme_color": "#274e48",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
